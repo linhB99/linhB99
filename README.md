@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linhB99
 - 👀 I’m interested in pursuing Data Analysis Career
 - 🌱 I’m currently learning Python and R 
-- 💞️ I’m looking for to meeting more friends who share the same career path with me and also gaining more insight about it
+- 💞️ I’m looking for to meeting more friends who share the same career path with me and also gaining more insights about it
 - 📫 Reach me best at linhbui6399@gmail.com or my IG www.instagram.com/sinderella_xoxo22
 
 <!---
